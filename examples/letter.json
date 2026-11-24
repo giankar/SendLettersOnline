@@ -1,0 +1,12 @@
+{
+  "serviceClass": "SECOND_CLASS",
+  "pages": 1,
+  "colour": false,
+  "doubleSided": false,
+  "recipientName": "Example Recipient",
+  "recipientLine1": "1 Example Street",
+  "recipientCity": "London",
+  "recipientPostcode": "SW1A 1AA",
+  "recipientCountry": "GB",
+  "content": "Dear Example Recipient,\n\nThis is illustrative content only. Replace the recipient and letter before any live submission.\n\nYours sincerely,\nExample Sender"
+}
